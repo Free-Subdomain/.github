@@ -1,12 +1,13 @@
-## Hi there 👋
+## Who are we? 
+We are a free subdomain registry service that provides '.fury-dev.ru and .realfara.ru' subdomains for everyone!
+We only support NS records (since the Free-subdomain team consists of only 1 person) 😐
 
-<!--
+###### *Response times may vary based on the amount of PRs we are receiving.
 
-**Here are some ideas to get you started:**
+----------------------
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Кто мы? 
+Мы являемся бесплатным сервисом регестрации поддоменов, который предоставляет поддомены '.fury-dev.ru и .realfara.ru' для всех!
+Мы поддерживаем только NS записи (так как команда Free-subdomain состоит всего из 1 человека) 😐
+
+###### *Время ответа может варьироваться в зависимости от количества получаемых нами запросов
